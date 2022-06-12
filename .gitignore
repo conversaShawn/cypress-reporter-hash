@@ -1,0 +1,7 @@
+node_modules
+
+# cypress
+cypress/fixtures
+cypress/plugins
+cypress/results
+cypress/videos
